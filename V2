@@ -725,8 +725,8 @@
           "name": "Scout Forward Observer",
           "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762780823/7CA608CDBA8E5E542CAA19CD541BF4078496D838/",
           "mini": {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/1914611077948046696/540C24586F04A11839C960006228303ACA909FD4/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081095213/7992E9DB14A9E720B669C2AA35E0EFD0E9B8289E/"
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994313760255115/61500098F083709FBEA5135F7D7E2A8157EE1CF9/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994313759217525/EE9BB165B6ED5B11D32A8510E56DECFC6F33D436/"
           },
           "points": 22,
           "restrictions": {
