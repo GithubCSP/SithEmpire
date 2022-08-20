@@ -497,8 +497,7 @@
                 "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994313759217525/EE9BB165B6ED5B11D32A8510E56DECFC6F33D436/"
               }
             ]
-          }
-        ],
+          ,
          "Heavy": [
          {
          "name": "War Droid MK I",
@@ -521,10 +520,9 @@
                 "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081102894/DE160A886FE4F5C6D7281BFCDA2D48EB8AE86218/"
               } 
             ]
-            }
-        ]
-      }
-    },
+        
+         }
+        ],
     "upgrades": {
       "Armament": [
         {
@@ -989,8 +987,7 @@
         }
       ]
     }
-  }
-  {
+}
     "units": {
       "Sith Empire": {
         "Commander": [
@@ -1929,7 +1926,7 @@
       ]
     }
   }
-
+}
 
   
   
