@@ -218,19 +218,9 @@
           ],
           "commands": [
             {
-              "name": "Null",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762770324/1724D9A09F413B0F529E6BF0B31888878A63BBF6/",
+              "name": "Chained Ghosts",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1765994313760616707/81CCEA5C37B0E7DDDE75DBEC6C8006ECA8AECDA0/",
               "pip": 1
-            },
-            {
-              "name": "Null",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762770440/2E757ECF016EE13B05AC24C3099B1C5A1C8EB46B/",
-              "pip": 2
-            },
-            {
-              "name": "Null",
-              "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762770540/94BD1666AAB91A40AE3BAB80E96EC233D7E61E6C/",
-              "pip": 3
             }
           ]
         },
