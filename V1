@@ -476,29 +476,9 @@
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081102894/DE160A886FE4F5C6D7281BFCDA2D48EB8AE86218/"
             }
           ]
-        },
-        {
-              "name": "Sith Speeder Bikes",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1765994313759983014/C0054A308BA30CDA05766FA0724D135E0B26D29E/",
-          "size": "medium",
-          "type": "Repulsor Vehicle",
-          "points": 85,
-          "speed": 3,
-          "upgrades": {
-            "Comms": 1
-          },
-          "minis": [
-            {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994313759925433/FB6BAAF0063476A1B253B20FF04EF676A3F57B7D/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994313759217525/EE9BB165B6ED5B11D32A8510E56DECFC6F33D436/"
-            },
-            {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994313759945843/CC625B0ECABAF308480C20B5443E15FCF8120706/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994313759217525/EE9BB165B6ED5B11D32A8510E56DECFC6F33D436/"
-            }
-          ]
         }
       ]
+    }
   },
   "upgrades": {
     "Armament": [
@@ -1412,27 +1392,6 @@
             {
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697620253290925/09820A879BC9DB027D438A7F0051F90D558A3D97/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081102894/DE160A886FE4F5C6D7281BFCDA2D48EB8AE86218/"
-            }
-          ]
-        },
-        {
-              "name": "xxxxx",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1862817412081161332/82657FF9895270D7FB5B46FFEC762DE81575BFC3/",
-          "size": "medium",
-          "type": "Repulsor Vehicle",
-          "points": 85,
-          "speed": 2,
-          "upgrades": {
-            "Comms": 1
-          },
-          "minis": [
-            {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1022821770981171565/A72EE65BB1B64233BC73B5A19F8BEEB49B6D25C2/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394078116645/BD2714E35A5DE7A05A9A653455FAAC739EB3ED98/"
-            },
-            {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1776099479274350301/4B9837939C2036E21527782F78E06152B3BFD831/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394078116702/430A9064079EFF5DFA1A7F68BDCEAB3B895B039F/"
             }
           ]
         }
