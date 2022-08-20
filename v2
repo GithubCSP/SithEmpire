@@ -502,14 +502,15 @@
     "Heavy": [
         {
             "name": "Sith Airspeeder",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762783140/3D6E632A2AD29733AB5D7693D53252E5FED2A52B/",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1765994313758870970/BC65C3C09C46DA544EDF3A17F95BAE5BD5113E37/",
             "size": "medium",
-            "type": "Ground Vehicle",
-            "points": 80,
-            "speed": 2,
+            "type": "Repulsor Vehicle",
+            "points": 175,
+            "speed": 3,
             "upgrades": {
-              "programming": 1,
-              "Comms": 1
+              "Hardpoint": 1,
+              "Comms": 1,
+              "Pilot":1
             },
             "minis": [
               {
