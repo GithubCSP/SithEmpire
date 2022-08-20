@@ -519,10 +519,11 @@
             {
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1021697620253290925/09820A879BC9DB027D438A7F0051F90D558A3D97/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081102894/DE160A886FE4F5C6D7281BFCDA2D48EB8AE86218/"
-             }
+            }
           ]
         }
       ]
+    }
   },
   "upgrades": {
     "Armament": [
