@@ -367,7 +367,7 @@
         },
         {
           "name": "Sith Empire Scouts",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762781192/B7970C612E40856C7980EB8519E909364D7C3B87/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1765994313759571604/9A8073F1F51F66EC3DEED57056A5D41BB3C22FB8/",
           "size": "small",
           "type": "Trooper",
           "points": 48,
@@ -380,20 +380,16 @@
           },
           "minis": [
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1914611077948021133/374FBB8E3628126144B85A20DDB6BA9E9C907A5E/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081095213/7992E9DB14A9E720B669C2AA35E0EFD0E9B8289E/"
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994313759504387/71D688FA29DBF6FBCCDF4B8E6377B4AF5C36369F/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994313759217525/EE9BB165B6ED5B11D32A8510E56DECFC6F33D436/"
             },
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1914611077948028555/44FF092B8140E11324C0F50E6AD8CF3FE6E55806/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081095213/7992E9DB14A9E720B669C2AA35E0EFD0E9B8289E/"
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994313759511382/A24D34C54E6D27B257DDFC69BFA250DCF0F769DA/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994313759217525/EE9BB165B6ED5B11D32A8510E56DECFC6F33D436/"
             },
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1914611077948031612/4A2E617866F21221736BB0810482E2153B199D4C/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081095213/7992E9DB14A9E720B669C2AA35E0EFD0E9B8289E/"
-            },
-            {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1914611077948059320/02A3739DA73BC56528D35CC33960CA4B20A77BFD/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081095213/7992E9DB14A9E720B669C2AA35E0EFD0E9B8289E/"
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994313759576844/91DD5522B0515556C53A979B61D975499DCCE1D3/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994313759217525/EE9BB165B6ED5B11D32A8510E56DECFC6F33D436/"
             }
           ]
         },
