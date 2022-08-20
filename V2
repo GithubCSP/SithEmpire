@@ -201,10 +201,10 @@
           },
           {
             "name": "Darth Nox",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1765994521975711465/A1CCCCD6865D87BF35392363C5597115B308203F/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1765994521975754109/C75AED6E449EE4484AE5EC57F58CEEC415FCB5EC/",
           "size": "small",
           "type": "Trooper",
-          "points": 140,
+          "points": 170,
           "speed": 2,
           "upgrades": {
             "Force": 2,
