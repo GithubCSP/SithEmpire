@@ -840,16 +840,16 @@
           }
         },
         {
-            "name": "Sith Warrior",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1776099479278056315/1665856EDAB96AF7A8C172511E6599CD901D4E71/",
+            "name": "Sith Empire BITCH Trooper",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277786308/E222A61B5021B9FC2E56A8A957633B8BD2384CDB/",
             "mini": {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608881149656/B3DDF1010726FDC59F24ACC4375251D7919F6135/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081089584/542B144CE38AAE7DE523F95F577C3DAB1B670870/"
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608884994661/01F7CD51333718A8A814885CF5A93B2A84651652/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081089584/542B144CE38AAE7DE523F95F577C3DAB1B670870/"
             },
-            "points": 30,
-            "restrictions":{
-                "include": {
-                    "unit": ["Sith Empire Troopers"]
+            "points": 12,
+            "restrictions": {
+              "include": {
+                "unit": ["Sith Empire Boarding Troopers"]
                 }
             }
         },
