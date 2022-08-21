@@ -843,8 +843,8 @@
             "name": "FC-6 Sith Rider",
             "image": "http://cloud-3.steamusercontent.com/ugc/1765994521978467532/4EFF21DD7F7BB9FEDA4222CF1CA9379E5FE34A3B/",
             "mini": {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521978603825/04909E488516C7C9658CEBEB8E964BA434E1BD64/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521978558195/0775F590DDE47C40DDAFB82C59A19435EF71EC53/"
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521978631127/29C0A2B5ABCE85AB97F678DC7F018644243561E8/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521978631602/3EEAAFC3338B182BFCE27CD05E451F25DB8C9E64/"
             },
             "points": 40,
             "restrictions": {
