@@ -446,8 +446,7 @@
             "points": 60,
             "speed": 3,
             "upgrades": {
-              "Comms": 1,
-              "Crew": 1
+                "Crew": 1
             },
             "minis": [
               {
@@ -547,13 +546,10 @@
         { 
             "name": "Sith Warrior",
         "image": "http://cloud-3.steamusercontent.com/ugc/1776099479278056315/1665856EDAB96AF7A8C172511E6599CD901D4E71/",
-        "mini": {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608881149656/B3DDF1010726FDC59F24ACC4375251D7919F6135/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081089584/542B144CE38AAE7DE523F95F577C3DAB1B670870/"
-        },
         "points": 30,
         "restrictions":{
             "include": {
+                "faction": ["Sith Empire"],
                 "unit": ["FC-6 Speeder Bikes"]
              }
            }
