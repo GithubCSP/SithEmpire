@@ -446,12 +446,7 @@
             "points": 60,
             "speed": 3,
             "upgrades": {
-              "Comms": 3,
-              "Armament":1,
-              "Grenades":1,
-              "Hardpoint":1,
-              "Crew": 1,
-              "Training":1
+
             },
             "minis": [
               {
