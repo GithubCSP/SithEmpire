@@ -543,19 +543,7 @@
       "Command": [],
       "Comms": [],
       "Counterpart": [],
-      "Crew": [
-        { 
-            "name": "adsadsadasdasdasior",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1776099479278056315/1665856EDAB96AF7A8C172511E6599CD901D4E71/",
-        "points": 30,
-        "restrictions":{
-            "include": {
-                "faction": ["Sith Empire"],
-                "unit": ["FC-6 Speeder Bikes"]
-             }
-           }
-        }
-      ],
+      "Crew": [],
       "Flaw": [],
       "Force": [
         {
