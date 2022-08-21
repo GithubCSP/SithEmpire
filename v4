@@ -830,9 +830,9 @@
         {
             "name": "Sith Warrior",
             "image": "http://cloud-3.steamusercontent.com/ugc/1776099479278056315/1665856EDAB96AF7A8C172511E6599CD901D4E71/",
-            "mini":{
+            "mini": {
                 "mesh": "",
-                "diffuse":
+                "diffuse": ""
             },
             "points": 30,
             "restrictions":{
