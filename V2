@@ -212,7 +212,7 @@
           },
           "minis": [
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521976217055/D198DDE1221C131BB1804A9C3D73DA0F84A4133B/",
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521976222449/5996068BF7FC51D769749ACC619ECB17EAC195CB/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521976203911/C8A00F1D88B0119F907FAEC683C1E3CD670C3F9E/"
             }
           ],
@@ -221,6 +221,11 @@
               "name": "Chained Ghosts",
               "image": "http://cloud-3.steamusercontent.com/ugc/1765994521975662833/70DBC0BB3C346F85D6CD537EF08B0D79CC4D2D38/",
               "pip": 1
+            },
+            {
+                "name":"Kaggath",
+                "image":"http://cloud-3.steamusercontent.com/ugc/1765994521976349537/BFF877EC9F3CFC8FD8FA8345E488B422E441BC2C/",
+                "pip": 3
             }
           ]
         },
