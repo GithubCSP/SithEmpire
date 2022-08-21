@@ -545,7 +545,7 @@
       "Counterpart": [],
       "Crew": [
         { 
-            "name": "Sith Warrior",
+            "name": "adsadsadasdasdasior",
         "image": "http://cloud-3.steamusercontent.com/ugc/1776099479278056315/1665856EDAB96AF7A8C172511E6599CD901D4E71/",
         "points": 30,
         "restrictions":{
@@ -849,12 +849,12 @@
             "points": 30,
             "restrictions":{
                 "include": {
-                    "unit": ["FC-6 Speeder Bikes"]
+                    "unit": ["Sith Empire Troopers"]
                 }
             }
         },
         {
-          "name": "Sith Empire Trooper",
+          "name": "Sith Empire BITCH Trooper",
           "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277742848/35DD1780CE5A8F446954CC178C0C05089A10B21B/",
           "mini": {
             "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608878992636/D833E26E44A7763FAEFBE2430390376F9160E931/",
