@@ -439,7 +439,7 @@
             ]
           },
           {
-                "name": "Sith Speeder Bikes",
+                "name": "FC-6 Bikes",
             "image": "http://cloud-3.steamusercontent.com/ugc/1765994313760353972/D4D2D275CF1E36F85E304DDED9B46D88A6CC3F2A/",
             "size": "medium",
             "type": "Repulsor Vehicle",
@@ -450,12 +450,12 @@
             },
             "minis": [
               {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994313759925433/FB6BAAF0063476A1B253B20FF04EF676A3F57B7D/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994313759217525/EE9BB165B6ED5B11D32A8510E56DECFC6F33D436/"
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521977874665/FE86D42FD84D4AFF28A7574C01CDE5473EE8923B/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
               },
               {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994313759945843/CC625B0ECABAF308480C20B5443E15FCF8120706/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994313759217525/EE9BB165B6ED5B11D32A8510E56DECFC6F33D436/"
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521977858431/E8DF3ECD4DA1C49B02D58A4FF975AC78F55F5144/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
                 }
             ]
           }
