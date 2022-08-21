@@ -828,6 +828,20 @@
           }
         },
         {
+            "name": "Sith Warrior",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1776099479278056315/1665856EDAB96AF7A8C172511E6599CD901D4E71/",
+            "mini":{
+                "mesh": "",
+                "diffuse":
+            },
+            "points": 30,
+            "restrictions":{
+                "include": {
+                    "unit": ["FC-6 Speeder Bikes"]
+                }
+            }
+        },
+        {
           "name": "Sith Empire Trooper",
           "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277742848/35DD1780CE5A8F446954CC178C0C05089A10B21B/",
           "mini": {
