@@ -744,12 +744,18 @@
           }
         },
         {
-          "name": "Imperial Intelligence Agent",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277786673/D0232B6BBE5FA4816C85DF20383B0892B8151979/",
+          "name": "Sith Intelligence Agent",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1765994521976896470/83EF38D8C7E896AE78B336CBEB07464E75CEADAB/",
           "mini": {
             "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521976772873/0E16BD84FF5DF2BCC91564F9111CC7A6600CC3D6/",
             "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521976773876/8AC8A1B03168D5BCF59FAA491CD4399793507044/"
-          }  
+          },  
+          "points": 30,
+          "restrictions": {
+            "include":{
+                "unit":["Sith Empire Scouts", "Imperial Commandos", "Sith Empire Support Troopers"]
+            }
+          }
         },
         {
           "name": "Disruptor Rifle Trooper",
