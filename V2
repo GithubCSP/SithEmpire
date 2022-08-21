@@ -921,26 +921,6 @@
       "Programming": [],
       "Training": [
         {
-          "name": "Sniper",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762770791/4A81418F19AC13EF621732F108088877BDBD1194/",
-          "points": 0,
-          "restrictions": {
-            "include": {
-              "unit": ["Cipher Nine"]
-            }
-          }
-        },
-        {
-          "name": "Operative",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762770680/D6C7B26C3EDAB3C30355AFB55BB9905A4F961956/",
-          "points": 0,
-          "restrictions": {
-            "include": {
-              "unit": ["Cipher Nine"]
-            }
-          }
-        },
-        {
           "name": "Advanced Assault Training",
           "image": "http://cloud-3.steamusercontent.com/ugc/1638738556640415256/3E0DA25CB2B44F7093E46DADA1965C0DBD3C703A/",
           "points": 5,
