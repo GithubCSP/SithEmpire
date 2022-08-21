@@ -388,39 +388,6 @@
             ]
           },
           {
-            "name": "Imperial Commandos",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1907856497768102636/FF44AEBE62A4380E48BCB47B385335FC14C5CBA0/",
-            "size": "small",
-            "type": "Trooper",
-            "points": 68,
-            "speed": 2,
-            "upgrades": {
-              "Heavy Weapon": 1,
-              "Gear": 1,
-              "Training": 1,
-              "Comms": 1,
-              "Grenades": 1
-            },
-            "minis": [
-              {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1007062024260308213/15A8FC12EB8192B2272D639557ED336BAF9718BE/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081097227/E7397A95F5A9BAF172CA68D5598EF08F2078C66D/"
-              },
-              {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1007062024261188154/B23F2669D0C619618D89D2BCF50E701363CDB26B/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081099311/106DF0BEBF184B28896AE21329C8FCA0C8B17593/"
-              },
-              {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1007062024260446504/E46DFA85E16AF894A710D4F6714BA84BC9C6BBB3/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081097227/E7397A95F5A9BAF172CA68D5598EF08F2078C66D/"
-              },
-              {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1007062024260532062/6D98D9E28283E02F34B203849A11F420D1A1C99E/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081097227/E7397A95F5A9BAF172CA68D5598EF08F2078C66D/"
-              }
-            ]
-          },
-          {
             "name": "Sith Acolytes",
             "image": "http://cloud-3.steamusercontent.com/ugc/1907856497768100019/9FF822BB69085EB4315D5622E2039166FAAC55DF/",
             "size": "small",
