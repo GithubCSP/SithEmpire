@@ -228,43 +228,7 @@
                 "pip": 3
             }
           ]
-        },
-          {
-            "name": "Cipher Nine",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762770981/D1E4DDC1C68E00FBC366F8454A29F3A254F15D4D/",
-            "size": "small",
-            "type": "Trooper",
-            "points": 90,
-            "speed": 2,
-            "upgrades": {
-              "Training": 2,
-              "Comms": 1,
-              "Gear": 1
-            },
-            "minis": [
-              {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1914611077947993859/EDA4A023ECB1AE766F49097A52BF3F5BF083AFD1/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081084862/70ECE33813B67C0F1399C0888C93019AE0C6EB98/"
               }
-            ],
-            "commands": [
-              {
-                "name": "Silent Hunter",
-                "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762770324/1724D9A09F413B0F529E6BF0B31888878A63BBF6/",
-                "pip": 1
-              },
-              {
-                "name": "Target Acquiered",
-                "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762770440/2E757ECF016EE13B05AC24C3099B1C5A1C8EB46B/",
-                "pip": 2
-              },
-              {
-                "name": "Vanish",
-                "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762770540/94BD1666AAB91A40AE3BAB80E96EC233D7E61E6C/",
-                "pip": 3
-              }
-            ]
-          }
         ],
         "Corps": [
           {
