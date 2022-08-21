@@ -446,7 +446,7 @@
             "points": 60,
             "speed": 3,
             "upgrades": {
-                "Crew": 1,
+                "Comms": 1,
                 "Personnel": 1
             },
             "minis": [
@@ -543,19 +543,7 @@
       "Command": [],
       "Comms": [],
       "Counterpart": [],
-      "Crew": [
-        { 
-            "name": "adsadsadasdasdasior",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1776099479278056315/1665856EDAB96AF7A8C172511E6599CD901D4E71/",
-        "points": 30,
-        "restrictions":{
-            "include": {
-                "faction": ["Sith Empire"],
-                "unit": ["FC-6 Speeder Bikes"]
-             }
-           }
-        }
-      ],
+      "Crew": [],
       "Flaw": [],
       "Force": [
         {
@@ -840,13 +828,13 @@
           }
         },
         {
-            "name": "Sith Empire BITCH Trooper",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277786308/E222A61B5021B9FC2E56A8A957633B8BD2384CDB/",
+            "name": "FC-6 Sith Rider",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1765994521978467532/4EFF21DD7F7BB9FEDA4222CF1CA9379E5FE34A3B/",
             "mini": {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608884994661/01F7CD51333718A8A814885CF5A93B2A84651652/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081089584/542B144CE38AAE7DE523F95F577C3DAB1B670870/"
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521978631127/29C0A2B5ABCE85AB97F678DC7F018644243561E8/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521978631602/3EEAAFC3338B182BFCE27CD05E451F25DB8C9E64/"
             },
-            "points": 12,
+            "points": 40,
             "restrictions": {
               "include": {
                 "unit": ["FC-6 Speeder Bikes"]
