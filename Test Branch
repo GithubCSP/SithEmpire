@@ -447,7 +447,7 @@
             "speed": 3,
             "upgrades": {
                 "Crew": 1,
-                "Armament": 1
+                "Personnel": 1
             },
             "minis": [
               {
