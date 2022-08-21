@@ -440,14 +440,14 @@
           },
           {
                 "name": "FC-6 Speeder Bikes",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1765994313760353972/D4D2D275CF1E36F85E304DDED9B46D88A6CC3F2A/",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1765994521978039434/1F28C50CB9D4B910A5D3E07136171D466808FC1C/",
             "size": "medium",
             "type": "Repulsor Vehicle",
             "points": 60,
             "speed": 3,
             "upgrades": {
               "Comms": 1,
-              "Personnel": 1
+              "Crew": 1
             },
             "minis": [
               {
@@ -543,7 +543,22 @@
       "Command": [],
       "Comms": [],
       "Counterpart": [],
-      "Crew": [],
+      "Crew": [
+        { 
+            "name": "Sith Warrior",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1776099479278056315/1665856EDAB96AF7A8C172511E6599CD901D4E71/",
+        "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608881149656/B3DDF1010726FDC59F24ACC4375251D7919F6135/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081089584/542B144CE38AAE7DE523F95F577C3DAB1B670870/"
+        },
+        "points": 30,
+        "restrictions":{
+            "include": {
+                "unit": ["FC-6 Speeder Bikes"]
+             }
+           }
+        }
+      ],
       "Flaw": [],
       "Force": [
         {
@@ -831,8 +846,8 @@
             "name": "Sith Warrior",
             "image": "http://cloud-3.steamusercontent.com/ugc/1776099479278056315/1665856EDAB96AF7A8C172511E6599CD901D4E71/",
             "mini": {
-                "mesh": "",
-                "diffuse": ""
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608881149656/B3DDF1010726FDC59F24ACC4375251D7919F6135/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081089584/542B144CE38AAE7DE523F95F577C3DAB1B670870/"
             },
             "points": 30,
             "restrictions":{
