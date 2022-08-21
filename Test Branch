@@ -834,12 +834,28 @@
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521978631127/29C0A2B5ABCE85AB97F678DC7F018644243561E8/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521978631602/3EEAAFC3338B182BFCE27CD05E451F25DB8C9E64/"
             },
+            "leader": true,
             "points": 40,
             "restrictions": {
               "include": {
                 "unit": ["FC-6 Speeder Bikes"]
                 }
             }
+        },
+        {
+            "name":"KDY Transit Skiff",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1765994521980908018/68E6EB3D7F49328CD10E432FD3AA210CE36A03FF/",
+            "mini": {
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521980843701/F66F39A0B955C1B95994E332C08076AFAE7A783F/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521980831324/793AB21AF72670E46BF9B548AC34837EEF916DBF/"
+            },
+            "points": 20,
+            "restrictions": {
+                "include": {
+                    "unit":["FC-6 Speeder Bikes"]
+                }
+            }
+
         },
         {
           "name": "Sith Empire Trooper",
@@ -944,4 +960,10 @@
       ]
     }
 }
-    
+#ExtraLinks
+Tank
+http://cloud-3.steamusercontent.com/ugc/1765994521980698492/D2941589F2D5BF25E60F34CA3127D3E09BEFD08A/
+http://cloud-3.steamusercontent.com/ugc/1765994521980684894/CEB75DF392C54ACC21735F2FA4C6401D0051482B/
+Transit
+http://cloud-3.steamusercontent.com/ugc/1765994521980843701/F66F39A0B955C1B95994E332C08076AFAE7A783F/
+http://cloud-3.steamusercontent.com/ugc/1765994521980831324/793AB21AF72670E46BF9B548AC34837EEF916DBF/
