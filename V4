@@ -446,7 +446,7 @@
             "points": 60,
             "speed": 3,
             "upgrades": {
-              "Comms": 1,
+              "Comms": 3,
               "Crew": 1
             },
             "minis": [
