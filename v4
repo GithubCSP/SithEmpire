@@ -439,14 +439,15 @@
             ]
           },
           {
-                "name": "FC-6 Bikes",
+                "name": "FC-6 Speeder Bikes",
             "image": "http://cloud-3.steamusercontent.com/ugc/1765994313760353972/D4D2D275CF1E36F85E304DDED9B46D88A6CC3F2A/",
             "size": "medium",
             "type": "Repulsor Vehicle",
-            "points": 80,
+            "points": 60,
             "speed": 3,
             "upgrades": {
-              "Comms": 1
+              "Comms": 1,
+              "Personnel": 1
             },
             "minis": [
               {
