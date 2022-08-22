@@ -374,16 +374,16 @@
             },
             "minis": [
               {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994313759594554/6D8661B76A8F35B45BA35B3DA239E814C3D11D2D/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994313759217525/EE9BB165B6ED5B11D32A8510E56DECFC6F33D436/"
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521981057611/0335606BC2B73CA513512E34347EDEB15B1B52EB/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
               },
               {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994313759511382/A24D34C54E6D27B257DDFC69BFA250DCF0F769DA/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994313759217525/EE9BB165B6ED5B11D32A8510E56DECFC6F33D436/"
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521981082853/D714EF23FA8246DB71F8EEEDECFA45FC0ABD6323/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
               },
               {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994313759576844/91DD5522B0515556C53A979B61D975499DCCE1D3/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994313759217525/EE9BB165B6ED5B11D32A8510E56DECFC6F33D436/"
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521981106966/C6715E2C42EA67A99A5101BF2C1BFB449F501668/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
               }
             ]
           },
@@ -673,8 +673,8 @@
           "name": "Designated Marksman",
           "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762781002/D504E669EC738208CBE252BF25046B0746DACE67/",
           "mini": {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994313759787325/B668C4239D813319ABFCE2A1D1CA624BE2BA8654/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994313759217525/EE9BB165B6ED5B11D32A8510E56DECFC6F33D436/"
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521981113332/EBAC90ABC04C54C9F85E663AB6D915FDC259CAD3/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
           },
           "points": 28,
           "restrictions": {
@@ -687,8 +687,8 @@
           "name": "Scout Forward Observer",
           "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762780823/7CA608CDBA8E5E542CAA19CD541BF4078496D838/",
           "mini": {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994313760264884/9058B08E78A8E408CE8C46288CFFCBBEF2CF0405/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994313759217525/EE9BB165B6ED5B11D32A8510E56DECFC6F33D436/"
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521981121228/BF8859D61691B527675B5AEAE2D9E99B726C5D92/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
           },
           "points": 22,
           "restrictions": {
@@ -713,15 +713,15 @@
         },
         {
           "name": "Sith Intelligence Agent",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1765994521976935537/089A22B5A334BDB7E110B1B00C7195B0ACAEF050/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1765994521981201418/2BBA94A3F010791FE3BAA85EB5C910CA56EF7D6F/",
           "mini": {
             "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521976772873/0E16BD84FF5DF2BCC91564F9111CC7A6600CC3D6/",
             "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521976773876/8AC8A1B03168D5BCF59FAA491CD4399793507044/"
           },  
-          "points": 30,
+          "points": 20,
           "restrictions": {
             "include":{
-                "unit":["Sith Empire Scouts", "Imperial Assault Troopers", "Sith Empire Support Troopers"]
+                "unit":["Sith Empire Scouts", "Imperial Assault Troopers", "Sith Empire Troopers", "Sith Empire Boarding Troopers"]
             }
           }
         },
@@ -829,17 +829,34 @@
         },
         {
             "name": "FC-6 Sith Rider",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1765994521978467532/4EFF21DD7F7BB9FEDA4222CF1CA9379E5FE34A3B/",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1765994521981253951/8D9E262613E3E5B18A2CC3D749C67ACAEF5283BA/",
             "mini": {
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521978631127/29C0A2B5ABCE85AB97F678DC7F018644243561E8/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521978631602/3EEAAFC3338B182BFCE27CD05E451F25DB8C9E64/"
             },
+            "leader": true,
             "points": 40,
             "restrictions": {
               "include": {
                 "unit": ["FC-6 Speeder Bikes"]
                 }
             }
+        },
+        {
+            "name":"KDY Transit Skiff",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1765994521981455958/18E40554E8C387CA3D9723760C42A20D934114FF/",
+            "mini": {
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521981395798/C7F472C39A8E5C891AB54AE42F04525E1F80720B/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521980831324/793AB21AF72670E46BF9B548AC34837EEF916DBF/"
+            },
+            "leader": true,
+            "points": 20,
+            "restrictions": {
+                "include": {
+                    "unit":["FC-6 Speeder Bikes"]
+                }
+            }
+
         },
         {
           "name": "Sith Empire Trooper",
@@ -944,4 +961,10 @@
       ]
     }
 }
-    
+#ExtraLinks
+Tank
+http://cloud-3.steamusercontent.com/ugc/1765994521980698492/D2941589F2D5BF25E60F34CA3127D3E09BEFD08A/
+http://cloud-3.steamusercontent.com/ugc/1765994521980684894/CEB75DF392C54ACC21735F2FA4C6401D0051482B/
+Transit
+http://cloud-3.steamusercontent.com/ugc/1765994521980843701/F66F39A0B955C1B95994E332C08076AFAE7A783F/
+http://cloud-3.steamusercontent.com/ugc/1765994521980831324/793AB21AF72670E46BF9B548AC34837EEF916DBF/
