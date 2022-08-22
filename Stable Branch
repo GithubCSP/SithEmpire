@@ -844,9 +844,9 @@
         },
         {
             "name":"KDY Transit Skiff",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1765994521980908018/68E6EB3D7F49328CD10E432FD3AA210CE36A03FF/",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1765994521981455958/18E40554E8C387CA3D9723760C42A20D934114FF/",
             "mini": {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521981358697/C4B5DFE0B53B20203490DF100ED27655E4044984/",
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521981395798/C7F472C39A8E5C891AB54AE42F04525E1F80720B/",
                 "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521980831324/793AB21AF72670E46BF9B548AC34837EEF916DBF/"
             },
             "leader": true,
