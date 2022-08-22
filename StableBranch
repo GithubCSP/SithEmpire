@@ -374,16 +374,16 @@
             },
             "minis": [
               {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994313759594554/6D8661B76A8F35B45BA35B3DA239E814C3D11D2D/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994313759217525/EE9BB165B6ED5B11D32A8510E56DECFC6F33D436/"
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521981057611/0335606BC2B73CA513512E34347EDEB15B1B52EB/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
               },
               {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994313759511382/A24D34C54E6D27B257DDFC69BFA250DCF0F769DA/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994313759217525/EE9BB165B6ED5B11D32A8510E56DECFC6F33D436/"
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521981082853/D714EF23FA8246DB71F8EEEDECFA45FC0ABD6323/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
               },
               {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994313759576844/91DD5522B0515556C53A979B61D975499DCCE1D3/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994313759217525/EE9BB165B6ED5B11D32A8510E56DECFC6F33D436/"
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521981106966/C6715E2C42EA67A99A5101BF2C1BFB449F501668/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
               }
             ]
           },
@@ -673,8 +673,8 @@
           "name": "Designated Marksman",
           "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762781002/D504E669EC738208CBE252BF25046B0746DACE67/",
           "mini": {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994313759787325/B668C4239D813319ABFCE2A1D1CA624BE2BA8654/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994313759217525/EE9BB165B6ED5B11D32A8510E56DECFC6F33D436/"
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521981113332/EBAC90ABC04C54C9F85E663AB6D915FDC259CAD3/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
           },
           "points": 28,
           "restrictions": {
@@ -687,8 +687,8 @@
           "name": "Scout Forward Observer",
           "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762780823/7CA608CDBA8E5E542CAA19CD541BF4078496D838/",
           "mini": {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994313760264884/9058B08E78A8E408CE8C46288CFFCBBEF2CF0405/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994313759217525/EE9BB165B6ED5B11D32A8510E56DECFC6F33D436/"
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521981121228/BF8859D61691B527675B5AEAE2D9E99B726C5D92/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
           },
           "points": 22,
           "restrictions": {
