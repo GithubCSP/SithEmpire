@@ -829,7 +829,7 @@
         },
         {
             "name": "FC-6 Sith Rider",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1765994521978467532/4EFF21DD7F7BB9FEDA4222CF1CA9379E5FE34A3B/",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1765994521981253951/8D9E262613E3E5B18A2CC3D749C67ACAEF5283BA/",
             "mini": {
               "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521978631127/29C0A2B5ABCE85AB97F678DC7F018644243561E8/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521978631602/3EEAAFC3338B182BFCE27CD05E451F25DB8C9E64/"
@@ -846,7 +846,7 @@
             "name":"KDY Transit Skiff",
             "image": "http://cloud-3.steamusercontent.com/ugc/1765994521980908018/68E6EB3D7F49328CD10E432FD3AA210CE36A03FF/",
             "mini": {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521980843701/F66F39A0B955C1B95994E332C08076AFAE7A783F/",
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521981358697/C4B5DFE0B53B20203490DF100ED27655E4044984/",
                 "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521980831324/793AB21AF72670E46BF9B548AC34837EEF916DBF/"
             },
             "points": 20,
