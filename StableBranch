@@ -849,6 +849,7 @@
                 "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521981358697/C4B5DFE0B53B20203490DF100ED27655E4044984/",
                 "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521980831324/793AB21AF72670E46BF9B548AC34837EEF916DBF/"
             },
+            "leader": true,
             "points": 20,
             "restrictions": {
                 "include": {
