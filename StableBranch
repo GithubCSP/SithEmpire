@@ -713,15 +713,15 @@
         },
         {
           "name": "Sith Intelligence Agent",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1765994521976935537/089A22B5A334BDB7E110B1B00C7195B0ACAEF050/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1765994521981201418/2BBA94A3F010791FE3BAA85EB5C910CA56EF7D6F/",
           "mini": {
             "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521976772873/0E16BD84FF5DF2BCC91564F9111CC7A6600CC3D6/",
             "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521976773876/8AC8A1B03168D5BCF59FAA491CD4399793507044/"
           },  
-          "points": 30,
+          "points": 20,
           "restrictions": {
             "include":{
-                "unit":["Sith Empire Scouts", "Imperial Assault Troopers", "Sith Empire Support Troopers"]
+                "unit":["Sith Empire Scouts", "Imperial Assault Troopers", "Sith Empire Troopers", "Sith Empire Boarding Troopers"]
             }
           }
         },
