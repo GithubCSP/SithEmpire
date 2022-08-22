@@ -479,7 +479,27 @@
                 "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994313760219874/8F01873122556665254FA9D07328675F70232681/",
                 "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994313758696228/2DE950AA0F9338E62EB383A04240CDCAC1A50B7E/"
               }
-    ]
+        ]
+        },
+        {
+            "name": "FR-2 Siege Walker",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1765994521983210271/E4EA4FB390BD4586689D19F70D4064265EAC8D36/",
+            "size": "large",
+            "type": "Ground Vehicle",
+            "points":170,
+            "speed": 1,
+            "upgrades":{
+                "Hardpoint": 1,
+                "Comms": 1,
+                "Pilot": 1
+            },
+            "minis": [
+            {
+                "mesh":"http://cloud-3.steamusercontent.com/ugc/1765994521982933431/991C01A57BFB2742ABAD57B02A08008FB0ABB791/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521982912523/82BBBC3F00FCBAD2D1058797DA0F0822105D0D7B/"
+            }
+        ]
+            
 }
     ]
 
@@ -623,7 +643,18 @@
           }
         }
       ],
-      "Hardpoint": [],
+      "Hardpoint": [
+        {
+            "name": "KDY AT Needle Cannon",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1765994521983209397/443260E05CBF246DEFEB7BFD40F4F42D9C5EBC9B/",
+            "points": 20,
+            "restrictrions":{ 
+                "include": {
+                    "unit": ["FR-2 Siege Walker"]
+                }
+        }
+    }
+      ],
       "Heavy Weapon": [
         {
           "name": "Veteran Trooper",
@@ -968,3 +999,8 @@ http://cloud-3.steamusercontent.com/ugc/1765994521980684894/CEB75DF392C54ACC2173
 Transit
 http://cloud-3.steamusercontent.com/ugc/1765994521980843701/F66F39A0B955C1B95994E332C08076AFAE7A783F/
 http://cloud-3.steamusercontent.com/ugc/1765994521980831324/793AB21AF72670E46BF9B548AC34837EEF916DBF/
+Walker
+http://cloud-3.steamusercontent.com/ugc/1765994521982933431/991C01A57BFB2742ABAD57B02A08008FB0ABB791/
+http://cloud-3.steamusercontent.com/ugc/1765994521982912523/82BBBC3F00FCBAD2D1058797DA0F0822105D0D7B/
+Card: http://cloud-3.steamusercontent.com/ugc/1765994521983210271/E4EA4FB390BD4586689D19F70D4064265EAC8D36/
+Upgrade1: http://cloud-3.steamusercontent.com/ugc/1765994521983209397/443260E05CBF246DEFEB7BFD40F4F42D9C5EBC9B/
