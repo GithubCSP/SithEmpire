@@ -719,8 +719,8 @@
           "name": "Marine Shotgun Trooper",
           "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277786673/D0232B6BBE5FA4816C85DF20383B0892B8151979/",
           "mini": {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521983498250/6BE56CF7964C7E3E8E82166FA6B97CFBCB614598/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521983435940/76A5E4E4CA2C72199DFB7EA6BFF7E334FC0EF110/"
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521987885260/491C2C43B3BDC93B38CE896C2C386405664F9483/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521987857747/7023D14253090EB508C61C63814D237592A49C71//"
           },
           "points": 24,
           "restrictions": {
@@ -817,8 +817,8 @@
           "name": "Proton Charge Marine",
           "image": "http://cloud-3.steamusercontent.com/ugc/1907856497762773998/A5AD937D1C905A8BF084AF5BAAC99F615F75D834/",
           "mini": {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521983629532/C4D9E1ABDA82E61D3613FEBB98B35448154016C8/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521983599819/0102025EB182E3742C20F928C6EDB7448E852F4B/"
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521987982664/CA23E9EFEA0C98D91501CA3F9C4A27F7A8E31C8F/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521987895109/AAE8E8C82B1C6C210C05456F8F740CCC724CE0CB/"
           },
           "points": 30,
           "restrictions": {
