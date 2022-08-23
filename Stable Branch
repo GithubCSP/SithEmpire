@@ -450,7 +450,7 @@
         },
         {
             "name": "FR-2 Siege Walker",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1765994521983284894/4CAEF2B18CE6E7085BDE8DC9740A4CC8B3DBD5D8/",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1765994521988159178/FDEDF6494E018E6FA435437E367694BA1406F78D/",
             "size": "large",
             "type": "Ground Vehicle",
             "points":170,
@@ -719,7 +719,7 @@
           "name": "Marine Shotgun Trooper",
           "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277786673/D0232B6BBE5FA4816C85DF20383B0892B8151979/",
           "mini": {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521988152391/4478FC933D28D0882B86AA948872A4F9E2982E17/",
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521988171369/33B65D5D6DFDAE09A7C02849652C79243770EA02/",
             "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521987857747/7023D14253090EB508C61C63814D237592A49C71//"
           },
           "points": 24,
