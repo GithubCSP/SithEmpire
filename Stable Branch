@@ -241,7 +241,7 @@
               "Personnel": 1,
               "Heavy Weapon": 1,
               "Training": 1,
-              "Comms": 1,
+              "Armament": 1,
               "Grenades": 1
             },
             "minis": [
@@ -525,6 +525,26 @@
               "type": ["Mandalorian Trooper"]
             }
           }
+        },
+        {
+          "name": "Hyper-Battle Combat-Stim",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1765994521987497633/8BC84AC527A8D8C4B6E128C1E0FE8AF805AF2CEF/",
+          "points": 12,
+          "restrictions":{
+            "include": {
+              "unit": ["Sith Empire Marines"]
+            }
+          }
+        },
+        {
+          "name": "Alacrity Combat-Stim",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1765994521987506802/557FF94DD60F83605D17F005C264ED4F3FB82473/",
+          "points": 24,
+          "restrictions":{
+            "include":{
+              "unit": ["Sith Empire Marines"]
+            }
+          }
         }
       ],
       "Command": [],
@@ -719,7 +739,7 @@
           "points": 20,
           "restrictions": {
             "include":{
-                "unit":["Sith Empire Scouts", "Imperial Assault Troopers", "Sith Empire Troopers", "Sith Empire Marines"]
+                "unit":["Sith Empire Scouts", "Imperial Assault Troopers", "Sith Empire Troopers"]
             }
           }
         },
