@@ -529,7 +529,7 @@
         {
           "name": "Hyper-Battle Combat-Stim",
           "image": "http://cloud-3.steamusercontent.com/ugc/1765994521987547710/75766E2AD94EFF240246B3BDCAAF55CD8B3E8F1D/",
-          "points": 12,
+          "points": 24,
           "restrictions":{
             "include": {
               "unit": ["Sith Empire Marines"]
@@ -539,6 +539,16 @@
         {
           "name": "Alacrity Combat-Stim",
           "image": "http://cloud-3.steamusercontent.com/ugc/1765994521987506802/557FF94DD60F83605D17F005C264ED4F3FB82473/",
+          "points": 12,
+          "restrictions":{
+            "include":{
+              "unit": ["Sith Empire Marines"]
+            }
+          }
+        },
+        {
+          "name": "Echani Combat-Stim",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1765994521988227465/BBF8F73F7832FD9D17298AA555148FCC9371669D/",
           "points": 24,
           "restrictions":{
             "include":{
