@@ -232,10 +232,10 @@
           },
           {
             "name": "Sith Empire Marines",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1765994521985225974/FB515ECE38171088823AC106BF0EFFF21ED7A0C8/",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1765994521987902433/6E7FCE2869B3E20A6745BF9A921B09A42421FA45/",
             "size": "small",
             "type": "Trooper",
-            "points": 48,
+            "points": 52,
             "speed": 2,
             "upgrades": {
               "Personnel": 1,
@@ -246,20 +246,20 @@
             },
             "minis": [
               {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521983505752/0566CD710CEE7DE4180F177E63F00ECCB38B98DB/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521983567571/F14175711AE538946B112749B938E6DEBFFB75BE/"
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521987860340/E01A28893BFDD467234F0BBB166E174898D0BDA7/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521987895109/AAE8E8C82B1C6C210C05456F8F740CCC724CE0CB/"
               },
               {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521983494285/A00DF0DCC110131B9D549806A2E5FD38C9C4033F/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521983567571/F14175711AE538946B112749B938E6DEBFFB75BE/"
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521987839700/71B80FE4AFAD2A3A453E33301A5F59F3C81E33E2/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521987823772/7416E548B7E937F84B59661F01177370AD358071/"
               },
               {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521983724908/1F237D510250EC6AF0DA0A6E63ADA56CFBA16AAD/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521983567571/F14175711AE538946B112749B938E6DEBFFB75BE/"
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521987845256/CA274A2964B5DA3AF5B05DF50E02DD4B8630D5F7/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521987895109/AAE8E8C82B1C6C210C05456F8F740CCC724CE0CB/"
               },
               {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521983498250/6BE56CF7964C7E3E8E82166FA6B97CFBCB614598/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521983567571/F14175711AE538946B112749B938E6DEBFFB75BE/"
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521987845256/CA274A2964B5DA3AF5B05DF50E02DD4B8630D5F7/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521987895109/AAE8E8C82B1C6C210C05456F8F740CCC724CE0CB/"
               }
             ]
           },
@@ -528,7 +528,7 @@
         },
         {
           "name": "Hyper-Battle Combat-Stim",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1765994521987497633/8BC84AC527A8D8C4B6E128C1E0FE8AF805AF2CEF/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1765994521987547710/75766E2AD94EFF240246B3BDCAAF55CD8B3E8F1D/",
           "points": 12,
           "restrictions":{
             "include": {
@@ -833,15 +833,29 @@
       "Personnel": [
         {
           "name": "Sith Empire Marine",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277786308/E222A61B5021B9FC2E56A8A957633B8BD2384CDB/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1765994521988031313/B7627EBF40D3F4406F54FAD22D3A7B169A812A0F/",
           "mini": {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608884994661/01F7CD51333718A8A814885CF5A93B2A84651652/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081089584/542B144CE38AAE7DE523F95F577C3DAB1B670870/"
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521987885260/491C2C43B3BDC93B38CE896C2C386405664F9483/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521987857747/7023D14253090EB508C61C63814D237592A49C71/"
           },
           "points": 12,
           "restrictions": {
             "include": {
-              "unit": ["Sith Empire Marine"]
+              "unit": ["Sith Empire Marines"]
+            }
+          }
+        },
+        {
+          "name": "Marine Stim Droid",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1765994521988031810/147A72CA869FE718BB2261FAEE29D97D7134FA48/",
+          "mini": {
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/773996263557020821/1E2319EBFD85D7748450F40689A1315696052EFC/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/770611889399999868/37F150131345FF1F47592A96239395A583AAE5EA/"
+          },
+          "points": 18,
+          "restrictions": {
+            "include": {
+              "unit": ["Sith Empire Marines"]
             }
           }
         },
