@@ -345,12 +345,12 @@
                 "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
               },
               {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521981082853/D714EF23FA8246DB71F8EEEDECFA45FC0ABD6323/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521989664062/87A555C64C484D31FEA45E5DF843B5CC5C9A8360/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521989655493/4C0F8632218843618D254AEEC9C7E668F7E92839/"
               },
               {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521981106966/C6715E2C42EA67A99A5101BF2C1BFB449F501668/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521989673639/73B0385486F3A7814D17F5060E9618A41C2FFC7B/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521989655493/4C0F8632218843618D254AEEC9C7E668F7E92839/"
               }
             ]
           },
@@ -548,7 +548,7 @@
         },
         {
           "name": "Echani Combat-Stim",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1765994521988227465/BBF8F73F7832FD9D17298AA555148FCC9371669D/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1765994521989349980/CA877CF32A0B76291941375E0A4DCCB4907FBAEC/",
           "points": 24,
           "restrictions":{
             "include":{
