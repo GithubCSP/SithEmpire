@@ -874,9 +874,10 @@
           "name": "Sith Sorcerer",
           "image": "http://cloud-3.steamusercontent.com/ugc/1776099479278055781/ED051F07880B0030B6DE21C04E01E640FEAD93C2/",
           "mini": {
-            "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061823163250038/32C72D2D0F766BFD34626E6A8944954C50CC0D77/",
-            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081114440/96A1FDEE15453C5039B1E546E14EFFB818DAAFFE/"
+            "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521985548652/794E962F026A6A10332C31682327734911EBF113/",
+            "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521985550077/BEE416FB685C961B561CF021040332F02C5046B3/"
           },
+          "leader": true,
           "points": 35,
           "restrictions": {
             "include": {
@@ -891,6 +892,7 @@
             "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608885796271/427E4FBA584A22712C84414761D3EEBB1AE714E7/",
             "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081079520/0775F590DDE47C40DDAFB82C59A19435EF71EC53/"
           },
+          "leader": true,
           "points": 35,
           "restrictions": {
             "include": {
