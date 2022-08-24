@@ -991,7 +991,18 @@
           }
         }
       ],
-      "Pilot": [],
+      "Pilot": [
+        {
+        "name": "Andronikos Revel",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1790764625345004145/6F4598F529D2C5C26760DF0C3A780F545E1F83E9/",
+        "points": 8,
+        "restrictions": {
+          "include": {
+            "type": []
+          }
+        }
+      }
+      ],
       "Programming": [],
       "Training": [
         {
