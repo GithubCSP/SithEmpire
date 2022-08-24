@@ -59,6 +59,24 @@
             ]
           },
           {
+            "name": "Malavai Quinn",
+            "title": "Ambitious Insubordinate",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1790764625346317023/0682C7F8146D655626B044C095F673D2379CD9A1/",
+            "size": "small",
+            "type": "Trooper",
+            "points": 70,
+            "speed": 2,
+            "upgrades": {
+              "Command": 2,
+              "Gear": 1,
+              "Flaw": 1
+            },
+            "minis": [
+              {
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608879755028/53718ACF3D389983D1CF2630D761DF90121CDA5A/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081107858/D6AA2F225A86E1E51A3E7521F11243EDA7E55171/"
+          },
+          {
             "name": "Lord Adraas",
             "image": "http://cloud-3.steamusercontent.com/ugc/1776099479277602848/B56DEFFD7CC8988D8568476DE4E0C7E59908A6E1/",
             "size": "small",
@@ -592,7 +610,18 @@
       "Comms": [],
       "Counterpart": [],
       "Crew": [],
-      "Flaw": [],
+      "Flaw": [
+        {
+        "name": "Stains of the Empire",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1790764625346432600/9222A687ADD5559AB578A5EA16D4BD09431B2E94/",
+        "points": 0,
+        "restrictions": {
+          "include": {
+            "unit": ["Malavai Quinn"]
+          }
+        }
+    },
+      ],
       "Force": [
         {
           "name": "Acolyte Force Lightning",
