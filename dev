@@ -79,9 +79,9 @@
             ],
             "commands": [
                 {
-                    "required": ["Stains of the Empire"]
                 }
-            ]
+            ],
+            "required": ["Stains of the Empire"]
           },
           {
             "name": "Lord Adraas",
