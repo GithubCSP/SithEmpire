@@ -79,6 +79,19 @@
             ],
             "commands": [
                 {
+                  "name": "Battle Calculations",
+                  "image": "http://cloud-3.steamusercontent.com/ugc/1790764668892249843/07AFDF34A91CD9FA80990C8E9FCFCA72232344CD/",
+                  "pip": 3
+                },
+                {
+                  "name": "Orders from Above",
+                  "image": "http://cloud-3.steamusercontent.com/ugc/1790764668892285739/159D8E39EF0BB15C52209A44C55874C837C7A8D4/",
+                  "pip": 1
+                },
+                {
+                  "name": "Liason or Slave?",
+                  "image": "http://cloud-3.steamusercontent.com/ugc/1790764668892314238/546067137194CEC1BF590A91FACEFF0BDA5935E5/",
+                  "pip": 2
                 }
             ],
             "required": ["Stains of the Empire"]
