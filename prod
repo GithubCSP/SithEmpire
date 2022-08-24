@@ -919,11 +919,11 @@
         "name": "FC-6 Rifler",
         "image": "http://cloud-3.steamusercontent.com/ugc/1790764625345817851/D10DE6C6ED32A40EC02902AEF6F5C584F9EBA747/",
         "mini": {
-          "mesh": "http://cloud-3.steamusercontent.com/ugc/1790764625345766313/2A00228C78A67C226743C95C3670FFF317A3B94E/",
-          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521978631602/3EEAAFC3338B182BFCE27CD05E451F25DB8C9E64/"
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1790764625345828685/10A80FD87BFB928E4B8B68B6CF5C251BAE885182/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
         },
-        "leader": true,
-        "points": 40,
+        "leader": false,
+        "points": 30,
         "restrictions": {
           "include": {
             "unit": ["FC-6 Speeder Bikes"]
