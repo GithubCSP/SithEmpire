@@ -887,6 +887,22 @@
           }
         },
         {
+            "name": "Imperial Comms Officer",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1790764625346237372/11D773791F13E35C5ACC73C9172948D38A1F5A65/",
+            "mini": {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1790764625346181809/6EBB4836C1AD1B7ED0D9E6B25EB7BA75228B96F4/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1790764625346182384/11F0553523FD62D30B9C29A4A8A98A6C617B1019/"
+            },
+            "restrictions": {
+                "include": {
+                  "faction": ["Sith Empire"]
+                }
+            },
+            "points": 9,
+              }
+            }
+          },
+        {
           "name": "Marine Stim Droid",
           "image": "http://cloud-3.steamusercontent.com/ugc/1765994521988031810/147A72CA869FE718BB2261FAEE29D97D7134FA48/",
           "mini": {
