@@ -168,7 +168,7 @@
           },
           {
             "name": "Scree, The Hunter",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1790764625344919459/C0069B3D93A575FB55FA703603A5DA26AB5AED00/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1790764625344956293/C3FD18397535B288EEA70D68ABF2AC5C468E6323/",
           "size": "small",
           "type": "Trooper",
           "points": 90,
@@ -991,7 +991,13 @@
           }
         }
       ],
-      "Pilot": [],
+      "Pilot": [
+        {
+        "name": "Andronikos Revel",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1790764625345004145/6F4598F529D2C5C26760DF0C3A780F545E1F83E9/",
+        "points": 8
+      }
+      ],
       "Programming": [],
       "Training": [
         {
