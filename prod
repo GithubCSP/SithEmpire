@@ -167,6 +167,37 @@
             ]
           },
           {
+            "name": "Scree, The Hunter",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1790764625344919459/C0069B3D93A575FB55FA703603A5DA26AB5AED00/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 90,
+          "speed": 2,
+          "upgrades": {
+            "Training": 2,
+            "Gear": 1,
+            "Comms": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1790764625344726487/F5C0B2C3EADD455F65DB878511B9D6F2CFBB98AE/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1790764625344698902/CB398B5D18D112FF09F86E35437E0E0B5B7C6107/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "WIP",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1765994521976434642/4BBBDEDB4E9C4AA3E144650F84A32A974481EAFF/",
+              "pip": 1
+            },
+            {
+                "name":"WIP2",
+                "image":"http://cloud-3.steamusercontent.com/ugc/1765994521976349537/BFF877EC9F3CFC8FD8FA8345E488B422E441BC2C/",
+                "pip": 3
+            }
+          ]
+          },
+          {
             "name": "Darth Nox",
           "image": "http://cloud-3.steamusercontent.com/ugc/1765994521975754109/C75AED6E449EE4484AE5EC57F58CEEC415FCB5EC/",
           "size": "small",
