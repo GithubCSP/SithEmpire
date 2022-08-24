@@ -76,7 +76,7 @@
                 "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608879755028/53718ACF3D389983D1CF2630D761DF90121CDA5A/",
                 "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081107858/D6AA2F225A86E1E51A3E7521F11243EDA7E55171/"
             }
-            ],
+            ]
           },
           {
             "name": "Lord Adraas",
@@ -619,10 +619,10 @@
         "points": 0,
         "restrictions": {
           "include": {
-            "unit": ["Malavai Quinn"],
+            "unit": ["Malavai Quinn"]
         }
+      }
     }
-  },
   ],
       "Force": [
         {
