@@ -894,7 +894,11 @@
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1790764625346182384/11F0553523FD62D30B9C29A4A8A98A6C617B1019/"
             },
             "points": 9,
+            "leader": true,
             "restrictions": {
+                "exclude": {
+                    "unit": ["Sith Acolytes"]
+                },
                 "include": {
                   "faction": ["Sith Empire"]
                 }
