@@ -621,7 +621,7 @@
         {
         "name": "Stains of the Empire",
         "image": "http://cloud-3.steamusercontent.com/ugc/1790764625346432600/9222A687ADD5559AB578A5EA16D4BD09431B2E94/",
-        "points": 0,
+        "points": 1,
         "restrictions": {
           "include": {
             "unit": ["Malavai Quinn"]
