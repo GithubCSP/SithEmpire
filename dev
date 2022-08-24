@@ -75,6 +75,13 @@
               {
                 "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608879755028/53718ACF3D389983D1CF2630D761DF90121CDA5A/",
                 "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081107858/D6AA2F225A86E1E51A3E7521F11243EDA7E55171/"
+            }
+            ],
+            "commands": [
+                {
+                    "required": ["Stains of the Empire"]
+                }
+            ]
           },
           {
             "name": "Lord Adraas",
@@ -618,10 +625,10 @@
         "restrictions": {
           "include": {
             "unit": ["Malavai Quinn"]
-          }
         }
-    },
-      ],
+      }
+    }
+  ],
       "Force": [
         {
           "name": "Acolyte Force Lightning",
@@ -1101,15 +1108,3 @@
       ]
     }
 }
-#ExtraLinks
-Tank
-http://cloud-3.steamusercontent.com/ugc/1765994521980698492/D2941589F2D5BF25E60F34CA3127D3E09BEFD08A/
-http://cloud-3.steamusercontent.com/ugc/1765994521980684894/CEB75DF392C54ACC21735F2FA4C6401D0051482B/
-Transit
-http://cloud-3.steamusercontent.com/ugc/1765994521980843701/F66F39A0B955C1B95994E332C08076AFAE7A783F/
-http://cloud-3.steamusercontent.com/ugc/1765994521980831324/793AB21AF72670E46BF9B548AC34837EEF916DBF/
-Walker
-http://cloud-3.steamusercontent.com/ugc/1765994521982933431/991C01A57BFB2742ABAD57B02A08008FB0ABB791/
-http://cloud-3.steamusercontent.com/ugc/1765994521982912523/82BBBC3F00FCBAD2D1058797DA0F0822105D0D7B/
-Card: http://cloud-3.steamusercontent.com/ugc/1765994521983210271/E4EA4FB390BD4586689D19F70D4064265EAC8D36/
-Upgrade1: http://cloud-3.steamusercontent.com/ugc/1765994521983209397/443260E05CBF246DEFEB7BFD40F4F42D9C5EBC9B/
