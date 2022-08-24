@@ -73,8 +73,8 @@
             },
             "minis": [
               {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1007061608879755028/53718ACF3D389983D1CF2630D761DF90121CDA5A/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1752483394081107858/D6AA2F225A86E1E51A3E7521F11243EDA7E55171/"
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1790764668892030554/B96566C617DE101D0471C66717D7E99F7146EE4B/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1790764668892028770/CA5B10EFDB2D1DA505A44ADECC9D8FE1D063D181/"
             }
             ],
             "commands": [
@@ -621,7 +621,7 @@
         {
         "name": "Stains of the Empire",
         "image": "http://cloud-3.steamusercontent.com/ugc/1790764625346432600/9222A687ADD5559AB578A5EA16D4BD09431B2E94/",
-        "points": 0,
+        "points": 1,
         "restrictions": {
           "include": {
             "unit": ["Malavai Quinn"]
@@ -933,7 +933,7 @@
             "leader": true,
             "restrictions": {
                 "include": {
-                  "faction": ["Sith Empire"]
+                  "unit": ["Sith Empire Marines","Sith Empire Scouts","Sith Empire Support Troopers","Sith Empire Troopers","Imperial Assault Troopers"]
                 }
             }
           },
