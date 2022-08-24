@@ -896,9 +896,6 @@
             "points": 9,
             "leader": true,
             "restrictions": {
-                "exclude": {
-                    "unit": ["Sith Acolytes"]
-                },
                 "include": {
                   "faction": ["Sith Empire"]
                 }
