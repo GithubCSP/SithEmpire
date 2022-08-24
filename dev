@@ -449,11 +449,11 @@
             },
             "minis": [
               {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521977874665/FE86D42FD84D4AFF28A7574C01CDE5473EE8923B/",
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1790764625345782566/EF1234B44A5F48CBC862AB9662C994659462CB5D/",
                 "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
               },
               {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521977858431/E8DF3ECD4DA1C49B02D58A4FF975AC78F55F5144/",
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1790764625345795200/384948F359E555AA72096A7DAA25C1103F6832A3/",
                 "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
                 }
             ]
@@ -579,8 +579,8 @@
         },
         {
           "name": "Echani Combat-Stim",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1765994521989349980/CA877CF32A0B76291941375E0A4DCCB4907FBAEC/",
-          "points": 24,
+          "image": "http://cloud-3.steamusercontent.com/ugc/1790764625345625666/BFC4960AC335F9F45B68CA2F496B31134DC08275/",
+          "points": 12,
           "restrictions":{
             "include":{
               "unit": ["Sith Empire Marines"]
@@ -904,7 +904,7 @@
             "name": "FC-6 Sith Rider",
             "image": "http://cloud-3.steamusercontent.com/ugc/1765994521981253951/8D9E262613E3E5B18A2CC3D749C67ACAEF5283BA/",
             "mini": {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1765994521978631127/29C0A2B5ABCE85AB97F678DC7F018644243561E8/",
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1790764625345808473/40ADC8FEBD8D94E678C0892A9ECFBCFF65C5F148/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521978631602/3EEAAFC3338B182BFCE27CD05E451F25DB8C9E64/"
             },
             "leader": true,
@@ -914,6 +914,21 @@
                 "unit": ["FC-6 Speeder Bikes"]
                 }
             }
+        },
+        {
+        "name": "FC-6 Rifler",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1790764625345817851/D10DE6C6ED32A40EC02902AEF6F5C584F9EBA747/",
+        "mini": {
+          "mesh": "http://cloud-3.steamusercontent.com/ugc/1790764625345828685/10A80FD87BFB928E4B8B68B6CF5C251BAE885182/",
+          "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
+        },
+        "leader": false,
+        "points": 30,
+        "restrictions": {
+          "include": {
+            "unit": ["FC-6 Speeder Bikes"]
+            }
+        }
         },
         {
             "name":"KDY Transit Skiff",
