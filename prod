@@ -579,8 +579,8 @@
         },
         {
           "name": "Echani Combat-Stim",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1765994521989349980/CA877CF32A0B76291941375E0A4DCCB4907FBAEC/",
-          "points": 24,
+          "image": "http://cloud-3.steamusercontent.com/ugc/1790764625345625666/BFC4960AC335F9F45B68CA2F496B31134DC08275/",
+          "points": 12,
           "restrictions":{
             "include":{
               "unit": ["Sith Empire Marines"]
