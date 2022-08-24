@@ -449,11 +449,11 @@
             },
             "minis": [
               {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1790764625345782566/EF1234B44A5F48CBC862AB9662C994659462CB5D/",
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1790764625345858352/A2D5663D6A3BACBB9B39FB477D6EB2D0895CA4B1/",
                 "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
               },
               {
-                "mesh": "http://cloud-3.steamusercontent.com/ugc/1790764625345795200/384948F359E555AA72096A7DAA25C1103F6832A3/",
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1790764625345845957/B49562B227BC191DF8EDF038EA77714AA5D19CE0/",
                 "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
                 }
             ]
@@ -904,7 +904,7 @@
             "name": "FC-6 Sith Rider",
             "image": "http://cloud-3.steamusercontent.com/ugc/1765994521981253951/8D9E262613E3E5B18A2CC3D749C67ACAEF5283BA/",
             "mini": {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1790764625345808473/40ADC8FEBD8D94E678C0892A9ECFBCFF65C5F148/",
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1790764625345874037/5F645D42389A6B404EC3A6D7D4B86DFE7F750ED9/",
               "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521978631602/3EEAAFC3338B182BFCE27CD05E451F25DB8C9E64/"
             },
             "leader": true,
