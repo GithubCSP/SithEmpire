@@ -61,7 +61,7 @@
           {
             "name": "Malavai Quinn",
             "title": "Ambitious Insubordinate",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1790764625346317023/0682C7F8146D655626B044C095F673D2379CD9A1/",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1790764668896317478/3B12B4CA1324C42260212F9A18801670995DDB2D/",
             "size": "small",
             "type": "Trooper",
             "points": 70,
@@ -74,7 +74,7 @@
             "minis": [
               {
                 "mesh": "http://cloud-3.steamusercontent.com/ugc/1790764668892030554/B96566C617DE101D0471C66717D7E99F7146EE4B/",
-                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1790764668892028770/CA5B10EFDB2D1DA505A44ADECC9D8FE1D063D181/"
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1790764668896272468/4A0F0BF6E30938229EA8E2671329B4D33C1DE6ED/"
             }
             ],
             "commands": [
