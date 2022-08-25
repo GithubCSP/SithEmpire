@@ -936,6 +936,20 @@
           }
         },
         {
+            "name": "X2-C3 Imperial Astromech",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1790764668895141647/C1165DEE0AA453E985F21BE5C468637269B9A7FE/",
+            "mini": {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1790764668895143542/119819391E301D6FC7D424D8AD266298AB1A4775/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1790764668895111639/CA93F4482F262E08266AD24D1393F70F2F63CBED/"
+            },
+            "points": 8,
+            "restrictions": {
+              "include": {
+                "unit": ["Sith Empire Marines","Sith Empire Scouts","Sith Empire Support Troopers","Sith Empire Troopers","Imperial Assault Troopers"]
+              }
+            }
+          },
+          {
             "name": "Imperial Comms Officer",
             "image": "http://cloud-3.steamusercontent.com/ugc/1790764625346237372/11D773791F13E35C5ACC73C9172948D38A1F5A65/",
             "mini": {
@@ -981,13 +995,13 @@
         },
         {
         "name": "FC-6 Rifler",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1790764625345891897/EE5772A45E6F234343F02B1EFACBB762DB06E03E/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1790764668892371446/FA76FBAEF19C4EAA7D595FEC5E87C4C1FA296B5D/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1790764625345828685/10A80FD87BFB928E4B8B68B6CF5C251BAE885182/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
         },
         "leader": false,
-        "points": 30,
+        "points": 20,
         "restrictions": {
           "include": {
             "unit": ["FC-6 Speeder Bikes"]
