@@ -79,6 +79,19 @@
             ],
             "commands": [
                 {
+                  "name": "Battle Calculations",
+                  "image": "http://cloud-3.steamusercontent.com/ugc/1790764668892249843/07AFDF34A91CD9FA80990C8E9FCFCA72232344CD/",
+                  "pip": 3
+                },
+                {
+                  "name": "Orders from Above",
+                  "image": "http://cloud-3.steamusercontent.com/ugc/1790764668892285739/159D8E39EF0BB15C52209A44C55874C837C7A8D4/",
+                  "pip": 1
+                },
+                {
+                  "name": "Liason or Slave?",
+                  "image": "http://cloud-3.steamusercontent.com/ugc/1790764668892314238/546067137194CEC1BF590A91FACEFF0BDA5935E5/",
+                  "pip": 2
                 }
             ],
             "required": ["Stains of the Empire"]
@@ -923,6 +936,20 @@
           }
         },
         {
+            "name": "X2-C3 Imperial Astromech",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1790764668895132428/E1F872B2D6D2A8EE015B3D26DAD8ACAB1FAEE710/",
+            "mini": {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1790764668895111321/F17F15B258B956420B1E91DAEE4000A44CD60705/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1790764668895111639/CA93F4482F262E08266AD24D1393F70F2F63CBED/"
+            },
+            "points": 8,
+            "restrictions": {
+              "include": {
+                "unit": ["Sith Empire Marines","Sith Empire Scouts","Sith Empire Support Troopers","Sith Empire Troopers","Imperial Assault Troopers"]
+              }
+            }
+          },
+          {
             "name": "Imperial Comms Officer",
             "image": "http://cloud-3.steamusercontent.com/ugc/1790764625346237372/11D773791F13E35C5ACC73C9172948D38A1F5A65/",
             "mini": {
@@ -968,13 +995,13 @@
         },
         {
         "name": "FC-6 Rifler",
-        "image": "http://cloud-3.steamusercontent.com/ugc/1790764625345891897/EE5772A45E6F234343F02B1EFACBB762DB06E03E/",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1790764668892371446/FA76FBAEF19C4EAA7D595FEC5E87C4C1FA296B5D/",
         "mini": {
           "mesh": "http://cloud-3.steamusercontent.com/ugc/1790764625345828685/10A80FD87BFB928E4B8B68B6CF5C251BAE885182/",
           "diffuse": "http://cloud-3.steamusercontent.com/ugc/1765994521977854061/99DD67EE0541BD3E952E6C860F84D6D94B40AF06/"
         },
         "leader": false,
-        "points": 30,
+        "points": 20,
         "restrictions": {
           "include": {
             "unit": ["FC-6 Speeder Bikes"]
@@ -1062,6 +1089,11 @@
         "name": "Andronikos Revel",
         "image": "http://cloud-3.steamusercontent.com/ugc/1790764625345004145/6F4598F529D2C5C26760DF0C3A780F545E1F83E9/",
         "points": 8
+      },
+      {
+        "name": "Mako",
+        "image": "http://cloud-3.steamusercontent.com/ugc/1790764668892353192/E0930393C55927E0373E418868834F943D93D56F/",
+        "points": 10
       }
       ],
       "Programming": [],
