@@ -183,7 +183,9 @@
             },
             "minis": [
               {
-                "bundle": "http://cloud-3.steamusercontent.com/ugc/1744602094725628797/C5EB41E9157C249A52275D43F62E41D48284397B/"
+                "mesh": "http://cloud-3.steamusercontent.com/ugc/1790764668896120768/987CD7C2005B8347FCEE9B42907380F35386F1F0/",
+                "diffuse": "http://cloud-3.steamusercontent.com/ugc/1790764668896102409/6811DA6881347FCB4AB5A79C7F283D1FC62FD984/"
+
               }
             ],
             "commands": [
@@ -206,10 +208,10 @@
           },
           {
             "name": "Scree, The Hunter",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1790764625344956293/C3FD18397535B288EEA70D68ABF2AC5C468E6323/",
+          "image": "http://cloud-3.steamusercontent.com/ugc/1790764668896193342/FBC0A68418212F74FB614221A3B4FE1B22D0DF23/",
           "size": "small",
           "type": "Trooper",
-          "points": 90,
+          "points": 100,
           "speed": 2,
           "upgrades": {
             "Training": 2,
@@ -301,10 +303,10 @@
           },
           {
             "name": "Sith Empire Marines",
-            "image": "http://cloud-3.steamusercontent.com/ugc/1765994521987902433/6E7FCE2869B3E20A6745BF9A921B09A42421FA45/",
+            "image": "http://cloud-3.steamusercontent.com/ugc/1790764668896248519/B3731123ED1DB190D6EB6D75A7ACE3CDCF0CDD2B/",
             "size": "small",
             "type": "Trooper",
-            "points": 52,
+            "points": 58,
             "speed": 2,
             "upgrades": {
               "Personnel": 1,
